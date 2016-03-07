@@ -94,7 +94,7 @@ class TouchView extends View implements ViewTouchActionListener {
         mScaleBm = zoomImage(BitmapFactory.decodeResource(res, R.mipmap.scale), getDimension(R.dimen.x16), getDimension(R.dimen.x16));
         mButtonRadius = getDimension(R.dimen.x8);
         mSrcMatrix = new Matrix();
-        mButtonCode = Constants.ACTION_VIEW_CLICK;
+        
 
         nowTranX = getTranslationX();
         nowTranY = getTranslationY();
