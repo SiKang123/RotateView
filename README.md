@@ -1,7 +1,7 @@
 # RotateView
 效果如图：
-![image](https://github.com/SiKang123/RotateView/tree/master/gif/layout.gif)
-![image](https://github.com/SiKang123/RotateView/tree/master/gif/scale.gif)
-![image](https://github.com/SiKang123/RotateView/tree/master/gif/rotate.gif)
-![image](https://github.com/SiKang123/RotateView/tree/master/gif/fanzhuan.gif)
-![image](https://github.com/SiKang123/RotateView/tree/master/gif/count.gif)
+![image](https://github.com/SiKang123/RotateView/tree/master/layout.gif)
+![image](https://github.com/SiKang123/RotateView/tree/master/scale.gif)
+![image](https://github.com/SiKang123/RotateView/tree/master/rotate.gif)
+![image](https://github.com/SiKang123/RotateView/tree/master/fanzhuan.gif)
+![image](https://github.com/SiKang123/RotateView/tree/master/count.gif)
